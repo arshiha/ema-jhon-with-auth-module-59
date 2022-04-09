@@ -3,7 +3,8 @@
  * 2. npm install
  * 3. create firebase.init.js and import getAuth to export auth
  * 4. firebase setting > Authhentication > enable Email and password auth
- * 5.  
+ * 5. create login, signup component,setup route
+ * 6. attach form field handler and form submit handler
  */
 
 
